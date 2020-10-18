@@ -1,0 +1,16 @@
+{
+  "name": "TypeScriptLearning",
+  "version": "1.0.0",
+  "description": "TypeScript 学习",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@happyCoding1024.github.com:happyCoding1024/TypeScriptLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIC"
+}
